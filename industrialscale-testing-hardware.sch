@@ -30,7 +30,7 @@ U 1 1 604CEB0F
 P 3450 2500
 F 0 "R3" H 3520 2546 50  0000 L CNN
 F 1 "220R" H 3520 2455 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 3380 2500 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 3380 2500 50  0001 C CNN
 F 3 "~" H 3450 2500 50  0001 C CNN
 	1    3450 2500
 	1    0    0    -1  
@@ -45,7 +45,7 @@ U 1 1 604D1825
 P 2850 2500
 F 0 "R1" H 2780 2546 50  0000 R CNN
 F 1 "220R" H 2780 2455 50  0000 R CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 2780 2500 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 2780 2500 50  0001 C CNN
 F 3 "~" H 2850 2500 50  0001 C CNN
 	1    2850 2500
 	-1   0    0    -1  
@@ -61,7 +61,7 @@ U 1 1 604E394D
 P 2850 3100
 F 0 "R2" H 2780 3146 50  0000 R CNN
 F 1 "220R" H 2780 3055 50  0000 R CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 2780 3100 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 2780 3100 50  0001 C CNN
 F 3 "~" H 2850 3100 50  0001 C CNN
 	1    2850 3100
 	-1   0    0    -1  
@@ -91,7 +91,7 @@ U 1 1 604F6F84
 P 3450 3100
 F 0 "R4" H 3380 3146 50  0000 R CNN
 F 1 "220R" H 3380 3055 50  0000 R CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 3380 3100 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 3380 3100 50  0001 C CNN
 F 3 "~" H 3450 3100 50  0001 C CNN
 	1    3450 3100
 	-1   0    0    -1  
@@ -169,7 +169,7 @@ U 1 1 60652307
 P 5900 2750
 F 0 "R7" V 5693 2750 50  0000 C CNN
 F 1 "100K" V 5784 2750 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 5830 2750 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 5830 2750 50  0001 C CNN
 F 3 "~" H 5900 2750 50  0001 C CNN
 	1    5900 2750
 	0    1    1    0   
@@ -180,7 +180,7 @@ U 1 1 6064E69D
 P 5650 3000
 F 0 "R6" H 5720 3046 50  0000 L CNN
 F 1 "1M" H 5720 2955 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 5580 3000 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 5580 3000 50  0001 C CNN
 F 3 "~" H 5650 3000 50  0001 C CNN
 	1    5650 3000
 	1    0    0    -1  
@@ -234,7 +234,7 @@ U 1 1 608397B3
 P 6250 1550
 F 0 "J4" V 6350 1600 50  0000 R CNN
 F 1 "Conn_01x01" V 6123 1462 50  0001 R CNN
-F 2 "industrialscale-testing-hardware:SolderWirePad_1x01_SMD_2x20mm" H 6250 1550 50  0001 C CNN
+F 2 "Connector_Pin:Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork" H 6250 1550 50  0001 C CNN
 F 3 "~" H 6250 1550 50  0001 C CNN
 	1    6250 1550
 	0    -1   -1   0   
@@ -247,7 +247,7 @@ U 1 1 6084408B
 P 6500 1550
 F 0 "J5" V 6600 1600 50  0000 R CNN
 F 1 "Conn_01x01" V 6373 1462 50  0001 R CNN
-F 2 "industrialscale-testing-hardware:SolderWirePad_1x01_SMD_2x20mm" H 6500 1550 50  0001 C CNN
+F 2 "Connector_Pin:Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork" H 6500 1550 50  0001 C CNN
 F 3 "~" H 6500 1550 50  0001 C CNN
 	1    6500 1550
 	0    -1   -1   0   
@@ -266,7 +266,7 @@ U 1 1 608458D7
 P 6950 1550
 F 0 "J9" V 7050 1600 50  0000 R CNN
 F 1 "Conn_01x01" V 6823 1462 50  0001 R CNN
-F 2 "industrialscale-testing-hardware:SolderWirePad_1x01_SMD_2x20mm" H 6950 1550 50  0001 C CNN
+F 2 "Connector_Pin:Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork" H 6950 1550 50  0001 C CNN
 F 3 "~" H 6950 1550 50  0001 C CNN
 	1    6950 1550
 	0    -1   -1   0   
@@ -277,7 +277,7 @@ U 1 1 60844CFD
 P 6800 1550
 F 0 "J8" V 6900 1600 50  0000 R CNN
 F 1 "Conn_01x01" V 6673 1462 50  0001 R CNN
-F 2 "industrialscale-testing-hardware:SolderWirePad_1x01_SMD_2x20mm" H 6800 1550 50  0001 C CNN
+F 2 "Connector_Pin:Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork" H 6800 1550 50  0001 C CNN
 F 3 "~" H 6800 1550 50  0001 C CNN
 	1    6800 1550
 	0    -1   -1   0   
@@ -288,7 +288,7 @@ U 1 1 608595EA
 P 6650 1550
 F 0 "J6" V 6750 1600 50  0000 R CNN
 F 1 "Conn_01x01" V 6523 1462 50  0001 R CNN
-F 2 "industrialscale-testing-hardware:SolderWirePad_1x01_SMD_2x20mm" H 6650 1550 50  0001 C CNN
+F 2 "Connector_Pin:Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork" H 6650 1550 50  0001 C CNN
 F 3 "~" H 6650 1550 50  0001 C CNN
 	1    6650 1550
 	0    -1   -1   0   
@@ -305,7 +305,7 @@ U 1 1 604E4B1F
 P 3650 1600
 F 0 "J2" V 3750 1650 50  0000 R CNN
 F 1 "Conn_01x01" V 3523 1512 50  0001 R CNN
-F 2 "industrialscale-testing-hardware:SolderWirePad_1x01_SMD_2x20mm" H 3650 1600 50  0001 C CNN
+F 2 "Connector_Pin:Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork" H 3650 1600 50  0001 C CNN
 F 3 "~" H 3650 1600 50  0001 C CNN
 	1    3650 1600
 	1    0    0    -1  
@@ -316,7 +316,7 @@ U 1 1 604ED2DF
 P 3650 1800
 F 0 "J3" V 3750 1850 50  0000 R CNN
 F 1 "Conn_01x01" V 3523 1712 50  0001 R CNN
-F 2 "industrialscale-testing-hardware:SolderWirePad_1x01_SMD_2x20mm" H 3650 1800 50  0001 C CNN
+F 2 "Connector_Pin:Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork" H 3650 1800 50  0001 C CNN
 F 3 "~" H 3650 1800 50  0001 C CNN
 	1    3650 1800
 	1    0    0    -1  
@@ -327,7 +327,7 @@ U 1 1 604EDCFD
 P 3650 1350
 F 0 "J1" V 3750 1400 50  0000 R CNN
 F 1 "Conn_01x01" V 3523 1262 50  0001 R CNN
-F 2 "industrialscale-testing-hardware:SolderWirePad_1x01_SMD_2x20mm" H 3650 1350 50  0001 C CNN
+F 2 "Connector_Pin:Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork" H 3650 1350 50  0001 C CNN
 F 3 "~" H 3650 1350 50  0001 C CNN
 	1    3650 1350
 	1    0    0    -1  
@@ -386,7 +386,7 @@ U 1 1 60523BE7
 P 4500 3450
 F 0 "R5" V 4293 3450 50  0000 C CNN
 F 1 "7k5" V 4384 3450 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 4430 3450 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 4430 3450 50  0001 C CNN
 F 3 "~" H 4500 3450 50  0001 C CNN
 	1    4500 3450
 	0    -1   -1   0   

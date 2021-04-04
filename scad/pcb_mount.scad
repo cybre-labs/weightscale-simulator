@@ -15,11 +15,15 @@ platine_thickn=0.8;
 usbc_h=8;//bisschen spiel
 usbc_w=30;//bisschen spiel
 
-translate([2,0,0])cube([profil_b-4,profil_h,28]);
-translate([0,profil_h,28]) rotate([60,0,0]) unterseite();
+rotate([0,0,28]) difference() {
+    rounded_cube(122,8,1,3.5);
+    translate([(122-113)/2,8/2,0]) cylinder(r=1.8,h=5);
+    translate([122-(122-113)/2,8/2,0]) cylinder(r=1.8,h=5);
+}
+
+translate([4,52,0]) rotate([0,0,-90]) unterseite();
 
 
-translate([profil_b-4+2,profil_h,28])rotate([0,0,180])prism(profil_b-4, 6, 4);
 //translate([profil_b,0,profil_h*2-0.5]) rotate([0,180,0]) oberseite();
 //battery();
 
